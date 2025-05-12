@@ -2,37 +2,39 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "When we introduce a liquid drop between the lens and glass plate, the radius of rings:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "reduce by a factor μ<sup>½</sup>",
+        "b": "increase by a factor μ",
+        "c": "increase by a factor μ<sup>½</sup>",
+        "d": "reduce by a factor μ"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
+     
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "When we incident the light normally,what happens to angle of incidence(i) and angle of reflection(r)",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "i>r",
+        "b": "i=r=0°",
+        "c": "i=r=90°",
+        "d": "i=90°,r=0°"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+    
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The light is allowed to fall obliquely on glass plate,then",
+      "answers": {
+        "a": "diameter of rings increases",
+        "b": "no ring is observed",
+        "c": "diameter of rings decreases",
+        "d": "no change"
       },
-      "correctAnswer": "c",
+     
+      "correctAnswer": "a",
       "difficulty": "beginner"
     }
   ]
