@@ -94,7 +94,8 @@ L.C                                     = One main scale division/ Number of div
 </table>
 
 ## Calculation
-Mean value of $\mu=(D'^{2}_{m+p}-D^{2}_{m})/(D'^{2}_{m+p}-D'^{2}_{m})$ <br>
-refractive index of given liquid, $\mu=(D^{2}_{m+p}-D^{2}_{m})/D'^{2}_{m+p}-D'^{2}_{m}$  <br>
-$\mu$ =.............................
+Mean value of $\mu=(D^{2}_{m+p}-D^{2}_{m})/(D'^{2}_{m+p}-D'^{2}_{m})$ = .........<br>
+
+## Result
+Refractive index of given liquid, $\mu$ =.............................
 
