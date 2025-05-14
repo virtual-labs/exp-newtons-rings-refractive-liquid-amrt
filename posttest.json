@@ -1,0 +1,29 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Gas inside sodium vapour lamp",
+      "answers": {
+        "a": "Neon",
+        "b": "No gas",
+        "c": "Helium",
+        "d": " Mercury"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which among the following causes the ring to deform from its circular shape?",
+      "answers": {
+        "a": "Glass plate is optically flat.",
+        "b": "The surface of the ring may not be a part of perfect sphere.",
+        "c": "Constant thickness of air film.",
+        "d": "The surface of lens and glass plate is clean."
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }
+  ]
+}
