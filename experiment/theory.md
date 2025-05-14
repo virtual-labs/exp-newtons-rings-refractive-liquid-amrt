@@ -8,7 +8,7 @@
 A film is said to be thin when its thickness is about the order of one wavelength of visible light which is taken to be 550 nm.  When light is incident on such a film, a small portion gets reflected from the upper surface and a major portion is transmitted into the film. Again a small part of the transmitted component is reflected back into the film by the lower surface and the rest of it emerges out of the film. These reflected beams reunite to produce interference.  Also the transmitted beams too interfere.  This type of interference that takes place in thin films is called interference by division of amplitude.
 
 
-<div style="float: right; margin-left: 20px;"> <img src="./images/figure1.jpg" alt="Figure 1" style="max-width: 300px; height: auto;"> <p style="text-align: center; font-size: smaller; font-style: italic;"></p> </div>
+<div style="float: right; margin-left: 20px;"> <img src="./images/figure1.jpg" alt="Figure 1" style="max-width: 500px; height: auto;"> <p style="text-align: center; font-size: smaller; font-style: italic;"></p> </div>
 
 
 $Θ_{1}$    angle of incidence at medium 1 to medium 2 boundary.<br>
@@ -34,7 +34,7 @@ Where, $\mu_{2}$: refractive index of the  medium 2 and $m=0,1,2,...$ the order 
 The transmitted light from $t_{23}$ can also interfere and result in constructive or destructive interference.
 
 ### To find the refractive index of liquid
-<p><span style="font-size: 12px;">The experiment is performed when there is an air film between the plano-convex lens and the optically plane glass plate.The diametre of the m<sup>th</sup> and the (m+p)<sup>th</sup> dark rings are determined with the help of a travelling microscope.</span></p>
+The experiment is performed when there is an air film between the plano-convex lens and the optically plane glass plate.The diametre of the m<sup>th</sup> and the (m+p)<sup>th</sup> dark rings are determined with the help of a travelling microscope.
 
 For air
 $$D^{2}_{m+p}=4(m+p)\lambda R$$
